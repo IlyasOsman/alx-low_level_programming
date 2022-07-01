@@ -1,0 +1,18 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+/*
+ * Main - Entry to the code
+ *
+ * Return if 0 = Succes
+ **/
+int main(void)
+{
+	char alphabet;
+
+	for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
+		putchar(alphabet);
+	putchar('\n');
+
+	return (0);
+}
