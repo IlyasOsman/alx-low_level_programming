@@ -7,20 +7,25 @@
 
 int main(void)
 {
-	int n;
+int n;
 
-	srand(time(0));
-	n = rand() - RAND_MAX / 2;
-	/* your code goes there */
-	if (n > 0)
-	{
-		printf("%d\n is positive")
-	} else if (n == 0)
-	{
-		printf("%d\n is zero")
-	} else if (n < 0)
-	{
-		printf("%d\n is negative")
-	}
-	return (0);
+srand(time(0));
+n = rand() - RAND_MAX / 2;
+/* your code goes there */
+if (n > 0)
+{
+printf("%i is positive\n", n)
+}
+
+else if (n == 0)
+{
+printf("%i is zero\n", n)
+}
+
+else
+{
+printf("%i is negative\n", n)
+}
+
+return (0);
 }
