@@ -1,1 +1,1 @@
-Prints letters from z to a
+a program that prints all the numbers of base 16 in lowercase
