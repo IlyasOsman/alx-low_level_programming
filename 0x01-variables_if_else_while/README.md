@@ -1,1 +1,1 @@
-a program that prints the alphabet in lowercase, followed by a new line. except q and e
+ a program that prints all single digit numbers of base 10 starting from 0
