@@ -1,1 +1,1 @@
-Prints alphabet in lowercase followed by new line
+Prints lowecase alphabet 10 times
