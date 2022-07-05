@@ -1,1 +1,1 @@
-Prints lowecase alphabet 10 times
+function that checks whether the character is lowercase
