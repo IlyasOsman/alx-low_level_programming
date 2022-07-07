@@ -1,1 +1,1 @@
-is digit? 0-9 ?
+Multiplication of two integer
