@@ -1,1 +1,1 @@
-function that checks for uppercase character.
+is digit? 0-9 ?
