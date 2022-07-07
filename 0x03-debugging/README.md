@@ -1,3 +1,1 @@
-# README for debugging.
-
-Multiples main
+1. Like, comment, subscribe
