@@ -1,1 +1,1 @@
-Multiplication of two integer
+print numbers
