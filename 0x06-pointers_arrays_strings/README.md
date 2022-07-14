@@ -1,1 +1,1 @@
-A function that concatenates two strings
+A fuction that compares two string
