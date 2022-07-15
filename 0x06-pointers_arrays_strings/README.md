@@ -1,1 +1,1 @@
-A function that reverses the contents of an array integers
+A function that changes all lowercase letter to upper letter
